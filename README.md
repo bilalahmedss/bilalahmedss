@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Bilal Ahmed
+# Hi, I'm Bilal Ahmed 👋
 ====================================================================================================================================
 
 I am a Computer Science graduate from Habib University building my career in cybersecurity.
