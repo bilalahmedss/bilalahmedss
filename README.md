@@ -1,42 +1,73 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Bilal Ahmed
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Bilal Ahmed
 ====================================================================================================================================
 
-Cybersecurity Learner | Networking & Cloud Security
----------------------------------------------------
+I am a Computer Science graduate from Habib University building my career in cybersecurity.
 
-I’m a Computer Science student focused on cybersecurity. I’m currently strengthening my foundations in Security+, Network+, CCNA, and cloud security, and building hands-on skills through labs and small projects.
+My interests lie in vulnerability assessment, network security, application security, security awareness, and the security of AI-enabled systems. I learn best by building practical labs, testing how systems fail, and documenting what I discover.
 
-* 🌍  I'm based in Karachi, Pakistan  
-* ✉️  You can contact me at [bilalsoomro56@gmail.com](mailto:bilalsoomro56@gmail.com)  
-* 🧠  Currently learning: Security+ • Network+/CCNA • AWS  
+## 🔐 Cybersecurity Experience
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" title="FastAPI" width="36" height="36" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" /></a>
-<a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Azure" width="36" height="36" /></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
-<a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
-</p>
+- Conducting credentialed and non-credentialed vulnerability assessments using Tenable Nessus
+- Reviewing critical and high-risk findings through CVE research, remediation, and rescanning
+- Building phishing-awareness simulations using GoPhish
+- Analyzing network traffic and security concepts using Wireshark
+- Exploring OWASP Top 10 vulnerabilities and secure application-development practices
+- Working with role-based access control, authentication, security testing, and audit logging
 
-### Socials
+## 🤖 Cybersecurity and AI
 
-<p align="left">
-<a href="https://www.github.com/bilalahmedss" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-</picture>
-</a>
-<a href="https://www.linkedin.com/in/bilalahmeds" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-</picture>
-</a>
-</p>
+I am particularly interested in how security applies to modern AI systems.
+
+My academic work has included:
+
+- Prompt-injection and Model Context Protocol attack research
+- Testing LLM agents against direct and indirect prompt injection
+- Exploring tool poisoning and tool-shadowing attacks
+- Designing cryptographic tool-provenance checks
+- Building secure AI-enabled applications with controlled data access
+
+## 🧪 Selected Projects
+
+### AI-Driven Executive Chat and Reporting Portal
+
+A full-stack conversational AI platform enabling non-technical users to query organizational data using natural language and generate structured reports.
+
+**Key areas:** Generative AI, LangGraph, FastAPI, PostgreSQL, JWT authentication, RBAC, secure SQL execution
+
+### NexusPortal — Secure Project Management Portal
+
+A deliberately vulnerable web application built for hands-on application-security testing and remediation.
+
+**Key areas:** Flask, access control, SQL injection, CSRF, privilege escalation, OWASP ZAP, SAST, SCA, DAST
+
+### Prompt Injection and MCP Exploits
+
+An academic security research project evaluating prompt-injection attacks and defence mechanisms across different LLM-agent configurations.
+
+**Key areas:** AI security, LangChain, FastMCP, prompt injection, cryptographic provenance
+
+### VPC Segmentation and NAT Egress
+
+A segmented AWS networking environment using public and private subnets with controlled internet access through a Linux NAT router.
+
+**Key areas:** AWS VPC, network segmentation, Linux, iptables, Security Groups, NACLs
+
+## 🛠️ Tools and Technologies
+
+**Security:** Tenable Nessus, Wireshark, GoPhish, OWASP ZAP, Nmap, VirusTotal  
+**Systems and Infrastructure:** Linux, Docker, VirtualBox, Windows Server, AWS VPC  
+**Development:** FastAPI, Flask, PostgreSQL, SQL, Git  
+**AI:** LangChain, LangGraph, RAG pipelines, Generative AI
+
+## 📚 Currently Learning
+
+- Vulnerability assessment and remediation
+- Network and application security
+- SOC fundamentals and security operations
+- AI and LLM security
+- Microsoft security and cloud fundamentals
+
+## 📫 Connect with Me
+
+- LinkedIn: [linkedin.com/in/bilalahmeds](https://www.linkedin.com/in/bilalahmeds)
+- Email: [bilalsoomro56@gmail.com](mailto:bilalsoomro56@gmail.com)
