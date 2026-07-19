@@ -1,5 +1,4 @@
 # Hi, I'm Bilal Ahmed 👋
-====================================================================================================================================
 
 I am a Computer Science graduate from Habib University building my career in cybersecurity.
 
