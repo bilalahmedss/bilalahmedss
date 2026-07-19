@@ -27,29 +27,35 @@ My academic work has included:
 
 ## 🧪 Selected Projects
 
+### [BidIntel AI](https://github.com/bilalahmedss/BidIntel-AI)
+
+A full-stack RFP analysis and bid-decision platform that extracts evaluation criteria, identifies commercial risks, evaluates draft responses, and provides grounded AI assistance.
+
+**Key areas:** FastAPI, React, TypeScript, RAG, LlamaIndex, ChromaDB, BM25, hybrid retrieval, AI security
+
+### [Prompt Injection & MCP Security](https://github.com/bilalahmedss/Prompt-Injection-MCP-Security)
+
+A research project evaluating prompt-injection and Model Context Protocol attacks across multiple LLM-agent defence configurations.
+
+**Key areas:** LLM security, LangChain, FastMCP, prompt injection, tool poisoning, tool shadowing, cryptographic provenance
+
+### [Application Security Testing](https://github.com/bilalahmedss/Application-Security-Testing)
+
+A hands-on application-security lab covering common web vulnerabilities, exploitation techniques, remediation controls, and OWASP Top 10 mapping.
+
+**Key areas:** Application security, DVWA, SQL injection, XSS, CSRF, Burp Suite, Docker
+
+### [Secure Payment Architecture & Threat Model](https://github.com/bilalahmedss/secure-payment-architecture-threat-model)
+
+A STRIDE-based threat model and defence-in-depth architecture for a multi-tenant online payment-processing platform.
+
+**Key areas:** Threat modelling, STRIDE, security architecture, IAM, network segmentation, risk treatment
+
 ### AI-Driven Executive Chat and Reporting Portal
 
 A full-stack conversational AI platform enabling non-technical users to query organizational data using natural language and generate structured reports.
 
 **Key areas:** Generative AI, LangGraph, FastAPI, PostgreSQL, JWT authentication, RBAC, secure SQL execution
-
-### NexusPortal — Secure Project Management Portal
-
-A deliberately vulnerable web application built for hands-on application-security testing and remediation.
-
-**Key areas:** Flask, access control, SQL injection, CSRF, privilege escalation, OWASP ZAP, SAST, SCA, DAST
-
-### Prompt Injection and MCP Exploits
-
-An academic security research project evaluating prompt-injection attacks and defence mechanisms across different LLM-agent configurations.
-
-**Key areas:** AI security, LangChain, FastMCP, prompt injection, cryptographic provenance
-
-### VPC Segmentation and NAT Egress
-
-A segmented AWS networking environment using public and private subnets with controlled internet access through a Linux NAT router.
-
-**Key areas:** AWS VPC, network segmentation, Linux, iptables, Security Groups, NACLs
 
 ## 🛠️ Tools and Technologies
 
