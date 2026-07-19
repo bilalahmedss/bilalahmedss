@@ -57,12 +57,40 @@ A full-stack conversational AI platform enabling non-technical users to query or
 
 **Key areas:** Generative AI, LangGraph, FastAPI, PostgreSQL, JWT authentication, RBAC, secure SQL execution
 
-## 🛠️ Tools and Technologies
+## 🛠️ Technologies
 
-**Security:** Tenable Nessus, Wireshark, GoPhish, OWASP ZAP, Nmap, VirusTotal  
-**Systems and Infrastructure:** Linux, Docker, VirtualBox, Windows Server, AWS VPC  
-**Development:** FastAPI, Flask, PostgreSQL, SQL, Git  
-**AI:** LangChain, LangGraph, RAG pipelines, Generative AI
+**Security**
+- Tenable Nessus
+- Wireshark
+- GoPhish
+- OWASP ZAP
+- Nmap
+- Burp Suite
+- VirusTotal
+
+**Programming**
+- Python
+- FastAPI
+- Flask
+- SQL
+- PostgreSQL
+- React
+- TypeScript
+
+**AI**
+- LangChain
+- LangGraph
+- LlamaIndex
+- ChromaDB
+- RAG
+- Generative AI
+
+**Infrastructure**
+- Linux
+- Docker
+- VirtualBox
+- AWS VPC
+- Git
 
 ## 📚 Currently Learning
 
